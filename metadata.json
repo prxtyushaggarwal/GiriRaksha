@@ -1,0 +1,6 @@
+{
+  "name": "GrahRaksha - AI Landslide Early Prediction & Warning System",
+  "description": "Multi-model AI early-warning landslide susceptibility system according to SIH PS 26001, integrating spatial ML, geotechnical factor of safety, 25km geofencing, and 3D terrain mapping.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
